@@ -36,3 +36,4 @@
 
 # Ada Library Information
 *.ali
+/models
